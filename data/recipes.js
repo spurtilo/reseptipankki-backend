@@ -17,7 +17,7 @@ let recipes = [
       "1 rkl Pirkka kanafondia",
       "1 dl Pirkka Parhaat parmesaania raastettuna",
     ],
-    steps: [
+    instructions: [
       "Ota broilerinfileet huoneenlämpöön 1/2 tuntia ennen paistamista. Mausta fileet suolalla ja mustapippurilla.",
       "Kuumenna 1 rkl öljyä uuninkestävällä pannulla. Ruskista fileet molemmin puolin kauniin värisiksi. Nosta lautaselle. Älä huuhdo pannua.",
       "Valuta ja hienonna aurinkokuivatut tomaatit. Hienonna kuoritut valkosipulinkynnet.",
@@ -49,7 +49,7 @@ let recipes = [
       "suolaa niin että tulee irvistyttää",
       "Tarjoiluun: tagliatelle pasta (markettipastoista esim Rummo), Parmigiano reggiano juustoa",
     ],
-    steps: [
+    instructions: [
       "Kokkaa rakkaudella ja intohimolla. Maista. Sovella. Ota vähän viiniä.",
       "Pieni varsisellerit, sipulit ja porkkanat. Kuullota kasviksia padassa oliiviöljyssä. Oliiviöljyä saa olla niin paljon, että hirvittää. Fiiliksen mukaan, itse laitan ainakin pari desiä.",
       "Kun kasvikset ovat kuullottuneet (noin 10 minuuttia), nosta lämpöä, lisää jauheliha ja paista. Leikkaa pancetta pieniksi paloiksi (taittelen pancettasiivukasan kahteen kertaan ja leikkaan veitsellä kuutioiksi). Paista. Lisää valkoviini ja anna poreilla hetki.",
@@ -91,7 +91,7 @@ let recipes = [
       "1–2 rkl rypsiöljyä paistamiseen",
       "tuoretta korianteria ja cashewpähkinöitä",
     ],
-    steps: [
+    instructions: [
       "Leikkaa broilerinrinnat parin sentin paloiksi. Kuori ja hienonna valkosipuli. Laita lihapalat ja valkosipulit kulhoon. Lisää jogurtti ja marinoidun broilerin mausteet. Anna maustua jääkaapissa vähintään 30 minuuttia.",
       "Tee kastike. Kuori ja hienonna sipuli ja valkosipulit. Kuori ja raasta inkivääri. Kuullota sipulia, valkosipulia ja inkivääriä voissa pannussa keskilämmöllä muutama minuutti. Lisää kastikkeen mausteet ja paista sekoitellen noin minuutti.",
       "Nosta lieden lämpöä, kaada tomaattimurska pannuun ja kiehauta seos. Laske sitten lämpöä ja anna kastikkeen porista noin 20 minuuttia.",

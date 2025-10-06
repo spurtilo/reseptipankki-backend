@@ -1,10 +1,13 @@
 const express = require("express");
 const dotenv = require("dotenv").config();
+const cors = require("cors");
+
 let recipes = require("./data/recipes");
 
 const app = express();
 const morgan = require("morgan");
 
+app.use(cors());
 app.use(express.json());
 
 morgan.token("reqData", function (req, res) {
@@ -15,10 +18,6 @@ app.use(
     ":method :url :status :res[content-length] - :response-time ms :reqData"
   )
 );
-
-app.get("/", (req, res) => {
-  res.send("<h1>Hello World!</h1>");
-});
 
 app.get("/api/recipes", (req, res) => {
   res.json(recipes);
